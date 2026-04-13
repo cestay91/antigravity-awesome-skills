@@ -1,6 +1,6 @@
 {
   "generatedAt": "2026-02-08T00:00:00.000Z",
-  "total": 1397,
+  "total": 1404,
   "skills": [
     {
       "id": "00-andruia-consultant",
@@ -9007,6 +9007,33 @@
         "uncover"
       ],
       "path": "skills/codebase-cleanup-tech-debt/SKILL.md"
+    },
+    {
+      "id": "codebase-to-wordpress-converter",
+      "name": "codebase-to-wordpress-converter",
+      "description": "Expert skill for converting any codebase (React/HTML/Next.js) into a pixel-perfect, SEO-optimized, and dynamic WordPress theme.",
+      "category": "development",
+      "tags": [
+        "codebase",
+        "to",
+        "wordpress",
+        "converter"
+      ],
+      "triggers": [
+        "codebase",
+        "to",
+        "wordpress",
+        "converter",
+        "skill",
+        "converting",
+        "any",
+        "react",
+        "html",
+        "next",
+        "js",
+        "pixel"
+      ],
+      "path": "skills/codebase-to-wordpress-converter/SKILL.md"
     },
     {
       "id": "codex-review",
@@ -24729,6 +24756,34 @@
       "path": "skills/pubmed-database/SKILL.md"
     },
     {
+      "id": "puzzle-activity-planner",
+      "name": "puzzle-activity-planner",
+      "description": "Plan puzzle-based activities for classrooms, parties, and events with pre-configured generator links",
+      "category": "architecture",
+      "tags": [
+        "education",
+        "puzzle",
+        "classroom",
+        "activity-planning",
+        "event"
+      ],
+      "triggers": [
+        "education",
+        "puzzle",
+        "classroom",
+        "activity-planning",
+        "event",
+        "activity",
+        "planner",
+        "plan",
+        "activities",
+        "classrooms",
+        "parties",
+        "events"
+      ],
+      "path": "skills/puzzle-activity-planner/SKILL.md"
+    },
+    {
       "id": "pydantic-ai",
       "name": "pydantic-ai",
       "description": "Build production-ready AI agents with PydanticAI — type-safe tool use, structured outputs, dependency injection, and multi-model support.",
@@ -25141,6 +25196,68 @@
         "optimization"
       ],
       "path": "skills/rag-implementation/SKILL.md"
+    },
+    {
+      "id": "rayden-code",
+      "name": "rayden-code",
+      "description": "Generate React code with Rayden UI components using correct props, tokens, and premium layout patterns",
+      "category": "development",
+      "tags": [
+        "react",
+        "tailwind",
+        "design-system",
+        "ui",
+        "components",
+        "vibe-coding",
+        "rayden",
+        "rayna-ui",
+        "code-generation"
+      ],
+      "triggers": [
+        "react",
+        "tailwind",
+        "design-system",
+        "ui",
+        "components",
+        "vibe-coding",
+        "rayden",
+        "rayna-ui",
+        "code-generation",
+        "code",
+        "generate",
+        "correct"
+      ],
+      "path": "skills/rayden-code/SKILL.md"
+    },
+    {
+      "id": "rayden-use",
+      "name": "rayden-use",
+      "description": "Build and maintain Rayden UI components and screens in Figma via Figma MCP with full design token enforcement",
+      "category": "general",
+      "tags": [
+        "figma",
+        "design-system",
+        "ui",
+        "components",
+        "mcp",
+        "rayden",
+        "rayna-ui"
+      ],
+      "triggers": [
+        "figma",
+        "design-system",
+        "ui",
+        "components",
+        "mcp",
+        "rayden",
+        "rayna-ui",
+        "maintain",
+        "screens",
+        "via",
+        "full",
+        "token"
+      ],
+      "path": "skills/rayden-use/SKILL.md"
     },
     {
       "id": "react-best-practices",
@@ -26091,7 +26208,7 @@
     {
       "id": "sales-automator",
       "name": "sales-automator",
-      "description": "Draft cold emails, follow-ups, and proposal templates. Creates\npricing pages, case studies, and sales scripts. Use PROACTIVELY for sales\noutreach or lead nurturing.",
+      "description": "Draft cold emails, follow-ups, and proposal templates. Creates pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales outreach or lead nurturing.",
       "category": "business",
       "tags": [
         "sales",
@@ -28602,6 +28719,31 @@
         "skills"
       ],
       "path": "skills/skill-installer/SKILL.md"
+    },
+    {
+      "id": "skill-optimizer",
+      "name": "skill-optimizer",
+      "description": "Diagnose and optimize Agent Skills (SKILL.md) with real session data and research-backed static analysis. Works with Claude Code, Codex, and any Agent Skills-compatible agent.",
+      "category": "data-ai",
+      "tags": [
+        "skill",
+        "optimizer"
+      ],
+      "triggers": [
+        "skill",
+        "optimizer",
+        "diagnose",
+        "optimize",
+        "agent",
+        "skills",
+        "md",
+        "real",
+        "session",
+        "data",
+        "research",
+        "backed"
+      ],
+      "path": "skills/skill-optimizer/SKILL.md"
     },
     {
       "id": "skill-rails-upgrade",
@@ -33006,6 +33148,33 @@
       "path": "skills/voice-ai-engine-development/SKILL.md"
     },
     {
+      "id": "vscode-extension-guide-en",
+      "name": "vscode-extension-guide-en",
+      "description": "Guide for VS Code extension development from scaffolding to Marketplace publication",
+      "category": "development",
+      "tags": [
+        "vscode",
+        "extension",
+        "ide",
+        "typescript",
+        "marketplace"
+      ],
+      "triggers": [
+        "vscode",
+        "extension",
+        "ide",
+        "typescript",
+        "marketplace",
+        "en",
+        "vs",
+        "code",
+        "development",
+        "scaffolding",
+        "publication"
+      ],
+      "path": "skills/vscode-extension-guide-en/SKILL.md"
+    },
+    {
       "id": "vulnerability-scanner",
       "name": "vulnerability-scanner",
       "description": "Advanced vulnerability analysis principles. OWASP 2025, Supply Chain Security, attack surface mapping, risk prioritization.",
@@ -33625,6 +33794,34 @@
         "security"
       ],
       "path": "skills/wordpress/SKILL.md"
+    },
+    {
+      "id": "wordpress-centric-high-seo-optimized-blogwriting-skill",
+      "name": "wordpress-centric-high-seo-optimized-blogwriting-skill",
+      "description": "Use this skill when the user asks to write a blog post, article, or SEO content. This applies a professional structure, truth boxes, click-bait-free accurate information, and outputs direct WordPress-ready content.",
+      "category": "business",
+      "tags": [
+        "writing",
+        "blog",
+        "seo",
+        "content",
+        "wordpress"
+      ],
+      "triggers": [
+        "writing",
+        "blog",
+        "seo",
+        "content",
+        "wordpress",
+        "centric",
+        "high",
+        "optimized",
+        "blogwriting",
+        "skill",
+        "user",
+        "asks"
+      ],
+      "path": "skills/wordpress-centric-high-seo-optimized-blogwriting-skill/SKILL.md"
     },
     {
       "id": "wordpress-penetration-testing",

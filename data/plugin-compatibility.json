@@ -6873,6 +6873,25 @@
       "runtime_files": []
     },
     {
+      "id": "codebase-to-wordpress-converter",
+      "path": "skills/codebase-to-wordpress-converter",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "codex-review",
       "path": "skills/codex-review",
       "targets": {
@@ -19222,6 +19241,25 @@
       "runtime_files": []
     },
     {
+      "id": "puzzle-activity-planner",
+      "path": "skills/puzzle-activity-planner",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "pydantic-ai",
       "path": "skills/pydantic-ai",
       "targets": {
@@ -19528,6 +19566,44 @@
     {
       "id": "rag-implementation",
       "path": "skills/rag-implementation",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
+      "id": "rayden-code",
+      "path": "skills/rayden-code",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
+      "id": "rayden-use",
+      "path": "skills/rayden-use",
       "targets": {
         "codex": "supported",
         "claude": "supported"
@@ -22215,6 +22291,31 @@
       "blocked_reasons": {
         "codex": [],
         "claude": []
+      },
+      "runtime_files": []
+    },
+    {
+      "id": "skill-optimizer",
+      "path": "skills/skill-optimizer",
+      "targets": {
+        "codex": "blocked",
+        "claude": "blocked"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [
+        "target_specific_home_path"
+      ],
+      "blocked_reasons": {
+        "codex": [
+          "target_specific_home_path"
+        ],
+        "claude": [
+          "target_specific_home_path"
+        ]
       },
       "runtime_files": []
     },
@@ -25665,6 +25766,25 @@
       "runtime_files": []
     },
     {
+      "id": "vscode-extension-guide-en",
+      "path": "skills/vscode-extension-guide-en",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
       "id": "vulnerability-scanner",
       "path": "skills/vulnerability-scanner",
       "targets": {
@@ -26142,6 +26262,25 @@
     {
       "id": "wordpress",
       "path": "skills/wordpress",
+      "targets": {
+        "codex": "supported",
+        "claude": "supported"
+      },
+      "setup": {
+        "type": "none",
+        "summary": "",
+        "docs": null
+      },
+      "reasons": [],
+      "blocked_reasons": {
+        "codex": [],
+        "claude": []
+      },
+      "runtime_files": []
+    },
+    {
+      "id": "wordpress-centric-high-seo-optimized-blogwriting-skill",
+      "path": "skills/wordpress-centric-high-seo-optimized-blogwriting-skill",
       "targets": {
         "codex": "supported",
         "claude": "supported"
@@ -26711,14 +26850,14 @@
     }
   ],
   "summary": {
-    "total_skills": 1397,
+    "total_skills": 1404,
     "supported": {
-      "codex": 1367,
-      "claude": 1382
+      "codex": 1373,
+      "claude": 1388
     },
     "blocked": {
-      "codex": 30,
-      "claude": 15
+      "codex": 31,
+      "claude": 16
     },
     "manual_setup": 1
   }
